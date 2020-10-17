@@ -1,5 +1,5 @@
 ```
- ↓ Tons of Programming books ↓
+ ↓ Tons of programming books ↓
      ____ _____________
     |___|_TypeScript___|
      |___|__C_________|
