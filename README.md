@@ -16,4 +16,4 @@
 ```
 
 ### 🔴 LiVE! 
-<img src="https://live.awa.moe" width="500px">
+[![live](https://live.awa.moe)](https://live.awa.moe)
