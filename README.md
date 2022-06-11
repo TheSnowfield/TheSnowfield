@@ -14,3 +14,6 @@
    |_____|_Javascript___|    />Py  /> C#
                                       🔥  ← FIRE THEM ALL!
 ```
+
+### 🔴 LiVE! 
+<img src="https://live.awa.moe" width="500px">
