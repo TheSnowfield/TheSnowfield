@@ -16,4 +16,4 @@
 ```
 
 ### 🔴 LiVE! 
-[![live](https://live.awa.moe/capture)](https://live.awa.moe)
+[![live](https://live.awa.moe/capture)](https://live.awa.moe/stream)
