@@ -21,6 +21,7 @@
 ```
 </td>
 <td>
-      <image src="https://broadcast.awa.moe/status?type=1" width="100%" height="100%"></image></td>
+      <a href="https://broadcast.awa.moe/status?type=0"><image src="https://broadcast.awa.moe/status?type=1" width="100%" height="100%"></image></a>
+</td>
 </tr>
 </table>
